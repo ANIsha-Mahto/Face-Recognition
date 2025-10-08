@@ -36,7 +36,7 @@ FaceDetection/
 ├─ .gitignore               # Files/folders to ignore from GitHub
 ├─ LICENSE                  # MIT License
 └─ README.md                # This file
-
+```
 
 # Setup & Installation
 
@@ -77,15 +77,15 @@ Press q to exit the live feed.
 
 **Concepts & Technologies Used**
 
-**1.Computer Vision:** OpenCV Haar Cascades for face detection
+1.Computer Vision: OpenCV Haar Cascades for face detection
 
-**2.Deep Learning: **Convolutional Neural Networks (CNN) for face recognition
+2.Deep Learning: Convolutional Neural Networks (CNN) for face recognition
 
-**3.Data Preprocessing: **Grayscale conversion, resizing, histogram equalization, normalization
+3.Data Preprocessing: Grayscale conversion, resizing, histogram equalization, normalization
 
-**4.Model Training & Saving:** Keras + TensorFlow
+4.Model Training & Saving: Keras + TensorFlow
 
-**5.Real-Time Streaming:** IP webcam via urllib and OpenCV
+5.Real-Time Streaming: IP webcam via urllib and OpenCV
 
 
 **License**
